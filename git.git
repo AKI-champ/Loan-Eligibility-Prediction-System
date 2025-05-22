@@ -1,3 +1,3 @@
-git add requirement.txt
+git add requirements.txt
 git commit -m "Fix dependency versions"
 git push origin main
